@@ -1,24 +1,14 @@
 # Blackjack-Jogo-de-21--Linked-List
-Blackjack using Linked List (C) 
+This is a implementation of Blackjack game, as known as 21, using a data structure called Linked List.
+This code was developed when I was studying Computer Science during the subject Algorithms and Data Structures ministred by professor Elisa de Cássia Silva Rodrigues
 
-This is a implementation of a game called Blackjack (21) using
-Linked List 
+## Credits: 
 
-(The code and description may change anytime soon. Reason: Make the code as clean as possible)
+- Getúlio Victor Faustino Moreira
+- Rafael Mariano da Silva Andrade
+- Rafael Pereira de Castro
 
-Credits: 
-
-Getúlio Victor Faustino Moreira
-
-Rafael Mariano da Silva Andrade
-
-Rafael Pereira de Castro
-
-(People who helped us to understand what we needed to do) 
-Special thanks to:
-
-Elisa de Cássia Silva Rodrigues
-
-Nixon Silva 
-
-Pedro Mendes
+## Special thanks to:
+- Elisa de Cássia Silva Rodrigues
+- Nixon Silva 
+- Pedro Mendes
